@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(99, 178, 209);
+}
+#container{
+    background-color: white;
+    display: none;
+    flex-wrap: wrap;
+    margin-left: 10vw;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+}
+#defaultContainer{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10vw;
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+}
+#availableColors{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid green;
+    justify-content: space-around;
+    width: 50vw;
+    margin-top: 10px;
+    margin-left: 10vw;
+}
+#availableColors button{
+    width: 100px;
+    border-radius: 5px;
+    color: rgb(27, 25, 25);
+    background-color: cornsilk;
+}
+#text{
+    margin-left: 30px;
+    font-size: 30px;
+}
+#dimension{
+    margin-left: 30px;
+    font-size: 30px; 
+}
+.menu{
+    display: flex;
+    margin-left: 10vw;
+}
+.divBlue{
+    background-color: blue;
+}
+.divRed{
+    background-color: red;
+}
+.divBlack{
+    background-color: black;
+}
+.divYellow{
+    background-color: yellow;
+}
+.divGreen{
+    background-color: green;
+}
+.divEraser{
+    background-color: white;
+}
+
+
