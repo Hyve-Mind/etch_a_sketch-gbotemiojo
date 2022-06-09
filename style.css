@@ -48,5 +48,23 @@ body{
     display: flex;
     margin-left: 10vw;
 }
+.divBlue{
+    background-color: blue;
+}
+.divRed{
+    background-color: red;
+}
+.divBlack{
+    background-color: black;
+}
+.divYellow{
+    background-color: yellow;
+}
+.divGreen{
+    background-color: green;
+}
+.divEraser{
+    background-color: white;
+}
 
 
